@@ -1,2 +1,5 @@
 # hello-world-
-a respository 
+
+Izzie here 
+
+I like horse riding, chocolate and taking pictures on my film camera. 
